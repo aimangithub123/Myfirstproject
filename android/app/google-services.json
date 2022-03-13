@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682129235765",
+    "project_id": "thekidz-3a710",
+    "storage_bucket": "thekidz-3a710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682129235765:android:07fb4fd2e3ae8cdff4367c",
+        "android_client_info": {
+          "package_name": "com.example.the_kidz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682129235765-m7j7s7kh43crs08e7es456qjnnvusi3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKr8HIVonE3c8O_sHODTiotsH-BRJ9lcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682129235765-m7j7s7kh43crs08e7es456qjnnvusi3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
