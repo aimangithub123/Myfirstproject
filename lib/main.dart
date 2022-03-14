@@ -14,7 +14,7 @@ Future<void> main() async {
   return runApp(TheKidz());
 }
 
-class TheKidz extends StatelessWidget {
+class TheKidz extends StatelessWidget  {
 
   @override
   Widget build(BuildContext context) {
