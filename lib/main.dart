@@ -22,7 +22,7 @@ class TheKidz extends StatelessWidget  {
         debugShowCheckedModeBanner: false,
         home: AuthWrapper(),
         initialBinding: AuthBinding(),
-        title: "TheKidz",
+        title: "TheKidzzzzzzzz",
     );
   }
 }
